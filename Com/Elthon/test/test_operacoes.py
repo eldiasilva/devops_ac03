@@ -8,4 +8,4 @@ def test_negativo():
 	assert func(-21) == -11
 
 def test_zero():
-	assert func(50) == 60
+	assert func(-10) == 0
